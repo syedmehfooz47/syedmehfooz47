@@ -30,7 +30,6 @@ Email Me 👉 ✉️ **[hello@syedmehfooz.com](mailto:hello@syedmehfooz.com)** F
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/syedmehfooz47/syedmehfooz47/output/github-contribution-grid-snake.svg">
   </picture>
   <br/>
-  <em>(Note: To activate the snake animation, you must set up the GitHub Action workflow in your repository)</em>
 </div>
 
 ## 🌐 Connect With Me
