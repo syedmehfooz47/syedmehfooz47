@@ -18,7 +18,6 @@ Email Me 👉 ✉️ **hello@syedmehfooz.com** For Collaboration/Project or Anyt
 - 🌱 **I’m currently learning:** DevSecOps, MLOps, AIOps.
 - 💬 **Ask me about:** Cloud Architecture, DevOps, Platform Engineering, and PC Hardware.
 - 📫 **How to reach me:** hello@syedmehfooz.com
-- 😄 **Pronouns:** Mehfooz
 - ⚡ **Fun fact:** I can do this all day!
 
 <!-- Snake Game Repo View -->
