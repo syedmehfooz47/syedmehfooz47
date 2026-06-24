@@ -23,13 +23,9 @@ Email Me 👉 ✉️ **[hello@syedmehfooz.com](mailto:hello@syedmehfooz.com)** F
 - ⚡ **Fun fact:** I can do this all day!
 
 <!-- Snake Game Repo View -->
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedmehfooz47/syedmehfooz47/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedmehfooz47/syedmehfooz47/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/syedmehfooz47/syedmehfooz47/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br/>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🌐 Connect With Me
