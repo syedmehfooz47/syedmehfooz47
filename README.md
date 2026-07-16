@@ -12,7 +12,7 @@
 
 **DevOps & Cloud Infrastructure Engineer** based in Bengaluru, India.
 
-A passionate DevOps Engineer with 2+ years of experience in System Administration and hands-on project experience in CI/CD pipelines, Jenkins, Docker, Kubernetes, cloud technologies, and DevOps automation. Familiar with automating workflows, containerization, deployment processes, and infrastructure management. Passionate about continuous learning, improving software delivery, and applying DevOps best practices to build reliable and scalable systems. Enthusiast in PC Gaming and PC Hardware tech.
+A passionate DevOps Engineer, System Administration with hands-on project experience in CI/CD pipelines, Jenkins, Docker, Kubernetes, cloud technologies, and DevOps automation. Familiar with automating workflows, containerization, deployment processes, and infrastructure management. Passionate about continuous learning, improving software delivery, and applying DevOps best practices to build reliable and scalable systems. Enthusiast in PC Gaming and PC Hardware tech.
 
 Email Me 👉 ✉️ **[hello@syedmehfooz.com](mailto:hello@syedmehfooz.com)** For Collaboration, Projects, or Anything Else. 😊😊
 
